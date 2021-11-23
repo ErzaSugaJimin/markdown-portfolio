@@ -1,1 +1,1 @@
-(https://erzasugajimin.github.io/markdown-portfolio/)
+[my link ig lolo](https://erzasugajimin.github.io/markdown-portfolio/)
